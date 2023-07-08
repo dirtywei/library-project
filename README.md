@@ -1,2 +1,12 @@
-# library-project
-Vue3组件库
+```
+library-project
+├─ package.json
+├─ examples
+│  └─ package.json
+└─ packages
+   ├─ components
+   │  └─ package.json
+   └─ utils
+      └─ package.json
+
+```
